@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004968639271",
+    "project_id": "prak-pbp",
+    "storage_bucket": "prak-pbp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004968639271:android:6245c5f75367eebf0ec702",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004968639271-kl3v4b462jve365d29g372hhil6bjh5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8lSrU3PhLq6PhRWbBofi8vI5KVBx0Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004968639271-kl3v4b462jve365d29g372hhil6bjh5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
